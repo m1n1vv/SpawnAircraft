@@ -33,3 +33,8 @@ stock GetDirectionOfAircraft(&Float:angle, &Float:x, &Float:y, &Float:z, &Float:
     
         return 1;
 }
+
+/*
+by m1n1vv
+Version: 0.1
+*/
